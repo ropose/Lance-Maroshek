@@ -1,2 +1,213 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<style>
+table {
+	visibility: hidden;
+}
+A:link {
+	color: #7F2626;
+	text-decoration: none;
+	font: 10px verdana;
+}
+A:visited {
+	color: #000000;
+	text-decoration: none;
+	font: 10px verdana;
+}
+A:hover {
+	color: #7F2626;
+	text-decoration: none;
+	font: 10px verdana;
+}
+body, p, table, td {
+	font: 10px verdana;
+	color: #272626;
+	line-height: 17px;
+}
+body {
+	background-color: #861818;
+	background-image: url("-blocked-");
+}
+.sf {
+	display: none;
+}
+#mainbar H1 {
+	font: 20pt georgia;
+	color: #000000;
+	border-bottom: 1px #7F2626 dashed;
+	font-weight: bold;
+	text-align: center;
+	letter-spacing: 2px;
+}
+#mainbar H2 {
+	font: 20px georgia;
+	color: #7F2626;
+	text-align: left;
+	letter-spacing: 1px;
+	border-left: 60px solid #7F2626;
+	padding-left: 10px;
+}
+#mainbar H3 {
+	font: 10px georgia;
+	color: #7F2626;
+	text-align: center;
+	letter-spacing: 1px;
+}
+#mainbar {
+	width: 615px;
+	background-color: #FFFFFF;
+	border: 2px solid #000000;
+	padding: 5px;
+	text-align: left;
+}
+#mainbar img {
+	padding: 4px;
+}
+a.extralinks:link, A.extralinks:visited, A.extralinks:active {
+	display: block;
+	text-decoration: none;
+	font: 9pt georgia;
+	text-align: center;
+	color: #7F2626;
+	margin: 5px;
+	background-color: #7F2626;
+	letter-spacing: 2;
+}
+#story {
+	width: 400px;
+	height: 250px;
+	background: #ffffff;
+	padding: 10px;
+	overflow: scroll;
+	border: 1px solid black;
+}
+.bgunder {
+	width: 100%;
+	height: 250px;
+	background: url("http://i.imgur.com/gbVsHjU.png") repeat;
+	z-index: -1;
+}
+#des2 {
+	width: 500px;
+	background: url("http://i.imgur.com/Ypk0xte.png");
+	padding: 10px;
+	color: #000000;
+	border: 1px solid black;
+}
+a.extralinks:hover {
+	color: #7F2626;
+	font: 9pt georgia;
+	text-align: center;
+	background-color: #7F2626;
+}
+</style><center>
+<div class="bgunder" style="position: fixed; top: 250px; left: 0px;"></div>
+<br><img src="http://i.imgur.com/qwDkAEk.png"><br><div id="mainbar">
+<br><br><center>
+<img src="http://i.imgur.com/alaLNQ3.png"><div class="box" id="des2">
+<br>
+Many years ago, The <b>Corruption</b> attacked the universe of Izlya.
+<br>
+Many people have been attacked by this disease and have perished.
+<br>
+The Lord of Corruption was dominating everyone and life in the universe.
+<br><br>
+The Guardian of Izlya was then created, one who would protect the heart of the universe.
+<br>
+The Guardian and the Lord of Corruption faced each other fiercely.
+<br>
+The Lord was banished from the universe after losing the first war.
+<br>
+But it cost Izlya's Guardian vitality.
+<br><br>
+Before leaving the universe, the Guardian separated his soul and powers in two, and gave life to these little born souls.
+<br>
+The <b>Son of Ice</b>, the one who would bring the deadly cold to those who disobey his order.
+<br>
+And the <b>Son of Fire</b>, the one who would destroy enemies just by walking on his feet.
+<br><br>
+Lance was born from the deadly fire, the one that takes life away from him, but lives in the shadow of loneliness.
+</div>
+</center>
+
+
+<br><center><a href="/~Drelda"><img src="http://i.imgur.com/pSP6TY6.png" border="0"></a></center>
+<hr><center>
+
+<img src="http://i.imgur.com/GgbMk9C.png"><p>
+<br><img src="http://i.imgur.com/CMtmvvY.png" style="float: left;"><br><b>Name:</b> Lance Maroshek.
+<br><b>Nicknames:</b> The Demon Hunter/The Crimson Rose.
+<br><b>Age:</b> Unknown (he stopped aging at 23 years old).
+<br><b>Gender:</b> Male.
+<br><b>Race:</b> Demon.
+<br><b>Powers and Abilities:</b> He can manipulate Fire and Darkness to attack his enemies, and purify the corruption in people's heart, has super fast moves, can regenerate his own injuries.
+<br><br>A mystical creature born from the powers of mortal fire, Lance is considered to be one of Adam's two sons, The Guardian of Izlya, after the guardian almost died in the war against the Lord of Corruption, he separated his powers and his soul in two, from these souls two creatures were born capable of manipulating the powers of a powerful entity like Adam.
+Quit Maroshek, the older brother, was born with the touch of deadly ice, being able to summon powerful blizzards and ice spears to eliminate what remained of corruption in Izlya, he had a calm and protective personality, always willing to help the weak, he was loved by the population of the universe.
+<br><br>
+Then Lance was born, the one with the deadly touch of fire, he was the one who could destroy an entire city with just an outbreak of rage, the one who could even wake up volcanoes.
+With each step Lance took, he would create a trail of fire and destruction wherever he went, his fire would drive people away from him and frighten everyone around with his destructive power, thus making the immortal creature feared and lonely in the universe.
+<br><br>
+His brother was always admired, despite bringing the cold with him, he never understood why everyone loved Quit more than he did, and Lance grew up with the need to always get the attention of his older brother, wanting to prove that he is also worthy of love. and compassion, both for people and for his own brother, who saw Lance as a sign of death in his aura.
+<br><br>
+But it was all in vain, and Lance's desperation grew together like a blaze of fire in his heart.
+<br><br>
+Lance decided that he would prove to people that he was capable of this recognition, and mainly of his brother's recognition, decided that he would face Corruption alone, but after an attack that caused a wound in his heart, Lance discovered that the mixture of Corruption with his powers he could create a flame that would purify the disease of the body of the people, thus bringing a possible cure to the whole Izlya.
+<br><br>
+Perhaps Lance would finally be able to unite again with his brother and show that together they could release the chains of corruption in the universe.
+<br><br>
+Meanwhile, the Lord of Corruption just watched Lance from a distance, planning his destruction.
+<br><br></p></center>
+
+
+
+<br><center><a href="/~Drelda"><img src="http://i.imgur.com/pSP6TY6.png" border="0"></a></center>
+<hr><center>
+<img src="http://i.imgur.com/1bwCsph.png"><br><br><div id="story">
+Coming soon...
+
+</div>
+<br><center><a href="/~Drelda"><img src="http://i.imgur.com/pSP6TY6.png" border="0"></a></center>
+<hr><center>
+<img src="http://i.imgur.com/qPfk0hu.png"><br><div id="des2">
+<b>Quit Maroshek</b> His older brother, the Son of Ice. Lance always wanted to be as strong and admired by people as he is, but Lance always caused destruction because of his flames around him, it took him a lot away from his brother, who found the boy problematic and somewhat arrogant, always wanting to call his own. attention but never having much success, because of that the relationship between the two has always had its ups and downs, but Lance still feels an affection and the need to be close to his brother when he can, and now that Lance manages to purify the evil in his body of the people he uses this specialty to brag about to his brother, always wanting to prove that he has the capacity as a true Son of Adam.
+<hr></div>
+</center>
+
+<br><center><a href="http://www.neopets.com/~Drelda"><img src="http://i.imgur.com/pSP6TY6.png" border="0"></a></center>
+<hr><center>
+<img src="http://i.imgur.com/lz8dr07.png"><br><br><b>Art by Me!</b>
+<br><br><img src="http://i.imgur.com/foguo8r.png" width="155" height="140"><img src="http://i.imgur.com/nSSbRof.png" width="155" height="140"><img src="http://i.imgur.com/HHN9oxu.jpg" width="155" height="140"><br><br><hr><b>Art by Others!</b>
+<br>
+Hover mouse for credits!
+<br><br><img src="http://i.imgur.com/UvrcsWP.jpg" title="Art by nekohina" width="155" height="140"><br></center>
+<br><center><a href="http://www.neopets.com/~Drelda"><img src="http://i.imgur.com/pSP6TY6.png" border="0"></a>
+
+
+
+<hr><center>
+<img src="http://i.imgur.com/3FADWOt.png"><br><br><br><a href="http://www.neopets.com/~Treyal"><img src="http://i.imgur.com/zT3gYt5.png"></a>
+<br><textarea><a href="http://www.neopets.com/~Treyal"><img src="http://i.imgur.com/zT3gYt5.png"></a></textarea><br><br><h2>My other pages: </h2>
+<br><br><a href="http://www.neopets.com/~WorldOfIzlya"><img src="http://i.imgur.com/rea7REs.png"></a>
+
+</center>
+
+</center>
+
+<center>
+<br><center><a href="http://www.neopets.com/~Drelda"><img src="http://i.imgur.com/pSP6TY6.png" border="0"></a></center>
+<hr><img src="http://i.imgur.com/niW0lWc.png"><br><img src="http://i.imgur.com/LhDSgkz.png"> 
+Template and design by <a href="www.neopets.com/~la_roque">The Lunch Box</a>.
+<br><img src="http://i.imgur.com/LhDSgkz.png"> 
+Dividers and bullets from <a href="www.neopets.com/~drelda">Bejeweled</a>.
+<br><img src="http://i.imgur.com/LhDSgkz.png"> 
+Content on this page by <a href="http://www.neopets.com/userlookup.phtml?user=tyrande_sorcerer">Brenda</a>.
+<br><img src="http://i.imgur.com/LhDSgkz.png"> 
+Copyright 2000-present Neopets, Inc. All Rights Reserved. Used With Permission. NEOPETS, characters, logos, names and all related indicia are trademarks of Neopets, Inc., © 1999-present. ® denotes Reg. US Pat. & TM Office. All rights reserved.
+</center>
+
+<br><br><center><a href="www.neopets.com/~Drelda"><img src="http://i.imgur.com/pSP6TY6.png" border="0"></a></center>
+<h3>
+Set me free, set me free, like I'm melting, so sick
+</h3>
+
+<br><br></center></div>
+
+</center>
